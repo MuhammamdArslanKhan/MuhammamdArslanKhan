@@ -45,6 +45,9 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammamdArslanKhan&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
 
 </div>
+
+## 💰 Support me
+<a href="https://www.buymeacoffee.com/arsalankhak"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 <!-- <a href="https://github.com/codingwithtashi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithtashi&theme=light&hide_langs_below=1" />
 </a> -->
