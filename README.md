@@ -37,6 +37,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
+## 🔥 GitHub Stats
+<div align="left">
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammamdArslanKhan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+ 
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammamdArslanKhan&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
+
+</div>
 <!-- <a href="https://github.com/codingwithtashi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithtashi&theme=light&hide_langs_below=1" />
 </a> -->
